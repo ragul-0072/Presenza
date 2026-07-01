@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 How It Works
-1. **Local Access:** When students enter the lecture hall, they connect to the device's localized, secure Wi-Fi network (`RIT_Attendance`).
+1. **Local Access:** When students enter the lecture hall, they connect to the device's localized, secure Wi-Fi network.
 2. **Instant Check-In:** The captive portal routes them to a sleek, mobile-optimized webpage where they submit their unique **Register Number**.
 3. **Hardware Validation:** The system filters inputs for pure integers, cross-references an active memory array to instantly block duplicate check-ins, and logs the timestamp.
 
