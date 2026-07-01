@@ -16,11 +16,4 @@
 * 🕒 **Dynamic Session Isolation:** Automatically generates an alphanumeric Session ID (e.g., `SESS-584921`) at boot to prevent records from overlapping across different classes.
 * 👨‍🏫 **Secured Faculty Deck:** Roster data is locked behind an HTTP Basic Authentication firewall (`/list`), accessible only via verified teacher credentials.
 * 📥 **One-Click Telemetry Export:** Enables teachers to instantly stream active session arrays directly into a clean `.csv` spreadsheet file for university database integration.
-* 🎨 **Premium UI Architecture:** Completely self-contained web interface styled using a responsive glassmorphism layout with institutional midnight indigo and amber accents.
 
----
-
-### 🛠️ Tech Stack
-* **Hardware:** ESP32 Microcontroller Architecture
-* **Firmware:** Embedded C++ (Arduino Framework, WebServer, DNSServer)
-* **Frontend:** Responsive HTML5 / CSS3 (Nunito Font Ecosystem)
