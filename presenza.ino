@@ -6,11 +6,11 @@ const byte DNS_PORT = 53;
 DNSServer dnsServer;
 WebServer server(80);
 
-const char* ssid = "RIT_Attendance";
-const char* password = "12345678";
+const char* ssid = "xxxxxx";//name you want to display
+const char* password = "12345678";//password 
 
-const char* adminUser = "teacher";
-const char* adminPass = "rit2026";
+const char* adminUser = "admin username";
+const char* adminPass = "admin password";
 
 String currentSessionId = "";
 
